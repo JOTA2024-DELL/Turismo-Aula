@@ -1,5 +1,5 @@
 .nav-top{
-    background-color: rgb(47, 47, 114) !important;
+    background-color: rgb(3, 2, 2) !important;
 }
 
 .nav-link{
@@ -7,7 +7,7 @@
 }
 
 footer{
-    background-color: rgb(47, 47, 114) !important;
+    background-color: rgb(0, 0, 0) !important;
     color: white !important;
     text-align: center !important;
 }
@@ -17,11 +17,11 @@ footer{
 }
 
 .carousel-caption{
-    background-color: rgba(82, 77, 77, 0.739) !important;
+    background-color: rgb(15, 175, 154) !important;
 }
 
 .divisao{
-    background-color: rgb(47, 47, 114) !important;
+    background-color: rgb(15, 175, 154) !important;
     text-align: center !important;
     color: white !important;
     padding: 2em !important;
@@ -64,3 +64,4 @@ footer{
 .mapa{
     margin-top: 5%!important;
 }
+
